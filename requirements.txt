@@ -1,0 +1,8 @@
+# Heart Disease Prediction Dashboard
+
+Ce projet est un tableau de bord interactif pour prédire les risques de maladies cardiaques à l'aide de modèles de machine learning.
+
+## Installation
+
+```bash
+pip install -r requirements.txt
