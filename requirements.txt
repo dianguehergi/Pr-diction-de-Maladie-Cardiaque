@@ -1,3 +1,12 @@
+1. créer le modele (model.py) (avec spyder si possible) et enregistrer le modele avec une extension pkl
+1. créer le deploiement (deploiement.py) (avec spyder si possible)
+3. Aller dans anaconda prompt
+allez dans le path de votre programme 
+cd PATH (cd C:\Users\sambe\Desktop\DEPLOIEMENT\deploiement)
+
+taper la ligne de commande
+streamlit run deploiement.py
+
 # Heart Disease Prediction Dashboard
 
 Ce projet est un tableau de bord interactif pour prédire les risques de maladies cardiaques à l'aide de modèles de machine learning.
